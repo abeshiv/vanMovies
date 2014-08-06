@@ -67,7 +67,7 @@ a:focus {
 
 a:active,
 a:hover {
-  outline: 0;
+  outline: 1px;
 }
 
 h1 {
